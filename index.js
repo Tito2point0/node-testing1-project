@@ -177,11 +177,11 @@ class Car {
     return this.tank * this.mpg
   }
 }
-const focus = new Car('focus', 20, 30)
-focus.drive(400)
-focus.drive(100)
-focus.drive(200)
-focus.drive(1)
+// const focus = new Car('focus', 20, 30)
+// focus.drive(400)
+// focus.drive(100)
+// focus.drive(200)
+// focus.drive(1)
 /**
  * [Exercise 7] Asynchronously resolves whether a number is even
  * @param {number} number - the number to test for evenness
